@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
