@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0015-3sum) |
+| [0463-island-perimeter](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0463-island-perimeter) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
