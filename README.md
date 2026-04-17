@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0027-remove-element) |
 | [0463-island-perimeter](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0463-island-perimeter) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0344-reverse-string) |
