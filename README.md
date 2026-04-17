@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0027-remove-element) |
 | [0463-island-perimeter](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0463-island-perimeter) |
+| [0643-maximum-average-subarray-i](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/2022-convert-1d-array-into-2d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
