@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0344-reverse-string) |
 ## Greedy
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0344-reverse-string) |
 ## Trie
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0643-maximum-average-subarray-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChafleGandhar-16/LeetCoding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
